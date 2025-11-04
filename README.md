@@ -1,6 +1,6 @@
 ## 💻 Notebook Description
 
-### **File:** `Hands on Anomaly Detection.ipynb`
+### **File:** `Hands-on-Clustering-Anomaly-Detection.ipynb`
 
 #### **1. Objective**
 To explore methods of identifying outliers or abnormal data points using clustering and anomaly detection algorithms.
